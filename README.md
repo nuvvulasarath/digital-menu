@@ -1,15 +1,15 @@
 What I have Done:
-1) Downloaded and installed MongoDB Compass
+1) Downloaded and installed Mongo DB Server and installed MongoDB Compass
 2) Creaed a free cluster with the help of MongoDB Atlas (created an account) 
 3) Opened the cluster in the local instance of MongoDB Compass by using the connection string provided 
 4) Created "Sample" Database and "Digital Menu" collection using GUI of MongoDB Compass
-5) Imported JSON Data into the collection that is created in the previous step
-6) Created a ASP .Net WEB API project and named it as "DigitalMenuApplication"
+5) Prepared Sample Dishes JSON and Imported into the collection that is created in the previous step
+6) Created an ASP .Net WEB API project and named it as "DigitalMenuApplication"
 7) Added the MongoDB Driver for C# to the solution using NuGet Package Manager. 
 8) Created a Data Model class inside Models folder with all relevant properties.
 9) Added connection string key and value inside app settings section of Web.config file.
 10) Created a controller class (DishController) inside controllers folder.
-11) Provided Action methods for Adding / updating a Dish, geting a specific dish information and getting all dishes information.
+11) Implemented Action methods for Adding / updating a Dish, geting a specific dish information and getting all dishes information.
 12) Tested all 3 endpoints with the help of postman client.
 
 
