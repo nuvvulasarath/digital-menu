@@ -1,6 +1,6 @@
 What I have Done:
 1) Downloaded and installed Mongo DB Server and installed MongoDB Compass
-2) Creaed a free cluster with the help of MongoDB Atlas (created an account) 
+2) Created a free cluster with the help of MongoDB Atlas (created an account) 
 3) Opened the cluster in the local instance of MongoDB Compass by using the connection string provided 
 4) Created "Sample" Database and "Digital Menu" collection using GUI of MongoDB Compass
 5) Prepared Sample Dishes JSON and Imported into the collection that is created in the previous step
